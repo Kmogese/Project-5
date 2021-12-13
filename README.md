@@ -26,6 +26,7 @@ const int MAX = 9;  // The value of the largest number
 
 
  // Function prototypes
+   
 bool isMagicSquare(int arrayRow1[], int arrayRow2[], int arrayRow3[], int size);
 bool checkRange(int arrayRow1[], int arrayRow2[], int arrayRow3[], int size, int min, int max);
 bool checkUnique(int arrayRow1[], int arrayRow2[], int arrayRow3[], int size);
